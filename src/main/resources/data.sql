@@ -31,7 +31,7 @@ INSERT INTO veiculos (marca, modelo, placa, ano, cor, valor_diaria)
 VALUES ('Chevrolet', 'Celta', 'ABC-1234', 2010, 'Preto', 100.00);
 
 INSERT INTO pessoas (nome, cpf, telefone, email)
-VALUES ('Vitor', '12345678900', '48999063839', 'vitor.souza@credija');
+VALUES ('NomeTeste', '12345678900', '13245678', 'test@test.com');
 
 INSERT INTO alugueis (pessoa_id, veiculo_id, data_inicio, data_fim, valor_total)
 VALUES (1, 1, '2024-11-13', '2024-11-13', 1500.00);
